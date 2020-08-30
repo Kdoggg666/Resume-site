@@ -176,7 +176,6 @@ footer {
   min-height: 120px;
   margin: 0;
   bottom: 0px;
-  
 }
 
 .cv-pdf i {
@@ -366,5 +365,17 @@ button[type="submit"] {
     min-height: 240px;
     margin: 0 auto;
     max-width: 50%;
+  }
+}
+
+@media (min-width: 992px) {
+  footer {
+    position: absolute;
+    bottom: 0px;
+    background-color: #525252;
+    color: #fafafa;
+    min-height: 120px;
+    margin: 0;
+    bottom: 0px;
   }
 }
