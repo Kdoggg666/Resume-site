@@ -372,10 +372,5 @@ button[type="submit"] {
   footer {
     position: absolute;
     bottom: 0px;
-    background-color: #525252;
-    color: #fafafa;
-    min-height: 120px;
-    margin: 0;
-    bottom: 0px;
   }
 }
